@@ -1,0 +1,30 @@
+.container {
+    width: 935px;
+    height: 1080px;
+    left: 482px;
+    padding: 20.15px 0px 0px 0px;
+    gap: 0px;
+    margin: auto;
+}
+
+.f-left {
+    float: left;
+}
+
+.f-right {
+    float: right;
+}
+
+.btn {
+    width: 44px;
+    height: 31px;
+    padding: 10px 0px 10px 8px;
+
+}
+.f-w {
+    font-weight: 600;
+}
+.t-opacity {
+    color:  rgba(142, 142, 142, 1);
+    
+}
